@@ -1,4 +1,5 @@
-# Exercise to Book Chapter mapping
+# My Rustlings Solutions
+> **TRY SOLVING THESE PROBLEMS YOURSELF BEFORE REFERRING TO MY SOLUTIONS**
 
 | Exercise               | Book Chapter |
 |------------------------|--------------|
